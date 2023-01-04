@@ -32,7 +32,14 @@ auto
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Introdução teórica e Desafio da live](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/4637d979-ed66-4d04-b64b-25371088a47e)[Instalando Laravel, entendendo a estrutura do projeto e apresentando exemplo de API para carta de baralho](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/a022b3bd-30d7-45e6-b0c9-735572114e7d)[Criando rotas do projeto com requisições HTTP da API](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/33948c3e-de6b-4897-9ae0-e333aec977af)[Criando controller para inserir as requisições HTTP](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/d2c7f5eb-b753-4a4d-a41c-10d251d7d398)[Criando rotas para retornar informações adicionais baseadas em consultas por ID](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/13c4bba3-132c-41aa-801c-a632ac0d9bfc)[Simulando cadastro e validação do input de dados](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/dbabc87c-8b67-46bf-b8ae-b6e2c830293a)[Dúvidas da live coding](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/821cce59-a7ca-4cee-9876-094cb39738f2)[Entendendo o Desafio](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/844727b1-aacc-4210-a925-5299c104a665)
+- [Introdução teórica e Desafio da live](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/4637d979-ed66-4d04-b64b-25371088a47e)
+- [Instalando Laravel, entendendo a estrutura do projeto e apresentando exemplo de API para carta de baralho](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/a022b3bd-30d7-45e6-b0c9-735572114e7d)
+- [Criando rotas do projeto com requisições HTTP da API](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/33948c3e-de6b-4897-9ae0-e333aec977af)
+- [Criando controller para inserir as requisições HTTP](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/d2c7f5eb-b753-4a4d-a41c-10d251d7d398)
+- [Criando rotas para retornar informações adicionais baseadas em consultas por ID](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/13c4bba3-132c-41aa-801c-a632ac0d9bfc)
+- [Simulando cadastro e validação do input de dados](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/dbabc87c-8b67-46bf-b8ae-b6e2c830293a)
+- [Dúvidas da live coding](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/821cce59-a7ca-4cee-9876-094cb39738f2)
+- [Entendendo o Desafio](https://web.dio.me/lab/laravel-construindo-uma-api-do-zero/learning/844727b1-aacc-4210-a925-5299c104a665)
 
 ## Descrição
 
